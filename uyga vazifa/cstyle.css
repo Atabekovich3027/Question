@@ -1,0 +1,167 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+
+
+.container {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+
+
+header {
+  background-color: #232536;
+  border-bottom: 1px solid silver;
+}
+
+nav {
+  width: 100%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+}
+
+
+
+nav .list {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  width: 712px;
+}
+
+nav .list .list-item a {
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
+  transition: all 0.2s ease-out;
+  color: rgba(255, 255, 255, 0.6);
+  ;
+}
+
+nav .list .list-item a:hover {
+  color: #fff;
+}
+
+ .contayner_2 {
+  width: px;
+  height: 816px;
+  top: 176px;
+  left: 161px;
+  margin: 0 auto;
+  margin-left: 670px;
+ 
+ 
+} 
+.wrappr_2 button {
+  width: 213px;
+  height: 64px;
+  top: 928px;
+  left: 161px;
+  margin-top: 100px;
+  background-color: blue;
+}
+
+.wrappr_2 {
+  width: 1277px;
+  height: 816px;
+  top: 176px;
+  left: 161px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px 70px;
+  border: 2px solid black;
+  margin-left: 200px;
+
+
+}
+
+.wrappr_2.left {
+  width: 672px;
+  height: 816px;
+  top: 176px;
+  left: 161px;
+  gap: 10px 5px;
+
+}
+
+.wrappr_2.left.text {
+  width: 672px;
+  height: 116px;
+  top: 268px;
+  left: 161px;
+
+}
+
+.wrappr_2.left.input.text {
+  width: 1280px;
+  height: 225px;
+  margin-top: 32px;
+  border: none;
+  background-color: #F9F9FF;
+  font-size: 18px;
+  line-height: 28px;
+  padding-left: 40px;
+  padding-top: 32px
+}
+
+.wrappr_2.right {
+  width: 536px;
+  height: 668px;
+  top: 176px;
+  left: 902px;
+  border: 1px;
+
+}
+
+.contayner_3 {
+  width: 1281px;
+  height: 409px;
+  top: 1088px;
+  left: 164px;
+  margin-left: 870px;
+
+}
+
+
+
+footer {
+  margin: 0 auto;
+  width: 1300px;
+  box-sizing: border-box;
+
+
+
+
+}
+
+.section1 ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.section1 ul li {
+  padding: 50px;
+}
+
+.section1 img {
+  width: 1300px;
+  height: 80px;
+  top: 3231px;
+
+}
